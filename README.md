@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/gpottepalem)](https://github.com/gpottepalem)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpottepalem/)](https://www.linkedin.com/in/gpottepalem/)
+[![X Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=X&logoColor=white&link=https://www.twitter.com/gpottepalem/)](https://www.twitter.com/gpottepalem/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gpottepalem@gmail.com)](mailto:gpottepalem@gmail.com/)
 [![stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-F58025?style=flat&logo=stackoverflow&logoColor=black&link=https://stackoverflow.com/users/5127542/giridhar-pottepalem)](https://stackoverflow.com/users/5127542/giridhar-pottepalem)
 
