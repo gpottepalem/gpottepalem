@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Workload-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5" />
   <img src="https://img.shields.io/badge/CI-Concourse-informational?style=flat&logo=concourse&color=3398DC" />
 </p>
+
 ![Giri github stats](https://github-readme-stats.vercel.app/api?username=gpottepalem&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpottepalem&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
