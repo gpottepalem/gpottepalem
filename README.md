@@ -1,4 +1,5 @@
 # Giri Pottepalem 👨‍💻 🎨
+👋 An experienced and well-disciplined Software Engineer.
 
 ## Social
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/gpottepalem)](https://github.com/gpottepalem)
@@ -49,6 +50,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpottepalem&theme=algolia&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gpottepalem&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **gpottepalem/gpottepalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
