@@ -1,5 +1,6 @@
 # Giri Pottepalem 👨‍💻 🎨
 
+## Social
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/gpottepalem)](https://github.com/gpottepalem)
 [![Github Pages Badge](https://img.shields.io/badge/-Github&nbsp;Pages-222222?style=flat&logo=Githubpages&logoColor=white&link=https://gpottepalem.github.io/)](https://gpottepalem.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpottepalem/)](https://www.linkedin.com/in/gpottepalem/)
@@ -12,15 +13,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/gpottepalem)](https://instagram.com/gpottepalem)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gpottepalem@gmail.com)](mailto:gpottepalem@gmail.com/)
 
-<p>
-  <img src="http://views.whatilearened.today/views/github/gpottepalem/views.svg" />
-  <a href="https://github.com/gpottepalem/">
-    <img src="https://img.shields.io/github/followers/gpottepalem?color=%234CC61E&label=GitHub%20Followers%20%3A" />
-  </a>
-  <a href="https://github.com/gpottepalem?tab=repositories">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
-  </a>
-</p>
+## Tech
 <p>
   <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
   <img src="https://img.shields.io/badge/Backend-Groovy-informational?style=flat&logo=apachegroovy&color=4298B8" />
@@ -31,6 +24,18 @@
   <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED" />
   <img src="https://img.shields.io/badge/Workload-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5" />
   <img src="https://img.shields.io/badge/CI-Concourse-informational?style=flat&logo=concourse&color=3398DC" />
+</p>
+
+## Stats
+
+<p>
+  <img src="http://views.whatilearened.today/views/github/gpottepalem/views.svg" />
+  <a href="https://github.com/gpottepalem/">
+    <img src="https://img.shields.io/github/followers/gpottepalem?color=%234CC61E&label=GitHub%20Followers%20%3A" />
+  </a>
+  <a href="https://github.com/gpottepalem?tab=repositories">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
+  </a>
 </p>
 
 ![Giri github stats](https://github-readme-stats.vercel.app/api?username=gpottepalem&show_icons=true&theme=algolia)
