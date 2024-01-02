@@ -13,7 +13,16 @@
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
   </a>
 </p>
-
+<p>
+  <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
+  <img src="https://img.shields.io/badge/Backend-Groovy-informational?style=flat&logo=apachegroovy&color=4298B8" />
+  <img src="https://img.shields.io/badge/Spring-Framework-informational?style=flat&logo=spring&color=6DB33F" />
+  <img src="https://img.shields.io/badge/Spring-Boot-informational?style=flat&logo=springboot&color=6DB33F" />
+  <img src="https://img.shields.io/badge/Cloud-Amazon&nbsp;AWS-informational?style=flat&logo=amazonaws&color=232F3E" />
+  <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED" />
+  <img src="https://img.shields.io/badge/Workload-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5" />
+  <img src="https://img.shields.io/badge/CI-Concourse-informational?style=flat&logo=concourse&color=3398DC" />
+</p>
 ![Giri github stats](https://github-readme-stats.vercel.app/api?username=gpottepalem&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpottepalem&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
