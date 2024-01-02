@@ -33,11 +33,10 @@
   <img src="https://img.shields.io/badge/CI-Concourse-informational?style=flat&logo=concourse&color=3398DC" />
 </p>
 
-![Giri github stats](https://github-readme-stats.vercel.app/api?username=gpottepalem&show_icons=true&theme=radical)
+![Giri github stats](https://github-readme-stats.vercel.app/api?username=gpottepalem&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpottepalem&theme=algolia&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpottepalem&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gpottepalem)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gpottepalem&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **gpottepalem/gpottepalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
