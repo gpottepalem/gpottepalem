@@ -5,6 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpottepalem/)](https://www.linkedin.com/in/gpottepalem/)
 [![X Badge](https://img.shields.io/badge/-Twitter-black?style=flat&logo=X&logoColor=white&link=https://www.twitter.com/gpottepalem/)](https://www.twitter.com/gpottepalem/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-F58025?style=flat&logo=stackoverflow&logoColor=black&link=https://stackoverflow.com/users/5127542/giridhar-pottepalem)](https://stackoverflow.com/users/5127542/giridhar-pottepalem)
+<br/>
 [![Blogger Badge](https://img.shields.io/badge/-Tech&nbsp;Blogger-FF5722?style=flat&logo=blogger&logoColor=white&link=https://giri-tech.blogspot.com/)](https://giri-tech.blogspot.com/)
 [![Blogger Badge](https://img.shields.io/badge/-Art&nbsp;Blogger-FF5722?style=flat&logo=blogger&logoColor=white&link=https://soul-on-canvas.blogspot.com/)](https://soul-on-canvas.blogspot.com/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0866FF?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/gpottepalem)](https://facebook.com/gpottepalem)
@@ -25,6 +26,7 @@
   <img src="https://img.shields.io/badge/Backend-Groovy-informational?style=flat&logo=apachegroovy&color=4298B8" />
   <img src="https://img.shields.io/badge/Spring-Framework-informational?style=flat&logo=spring&color=6DB33F" />
   <img src="https://img.shields.io/badge/Spring-Boot-informational?style=flat&logo=springboot&color=6DB33F" />
+<br/>
   <img src="https://img.shields.io/badge/Cloud-Amazon&nbsp;AWS-informational?style=flat&logo=amazonaws&color=232F3E" />
   <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED" />
   <img src="https://img.shields.io/badge/Workload-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5" />
