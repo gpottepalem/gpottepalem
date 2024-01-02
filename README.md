@@ -17,21 +17,21 @@
 ## Tech
 <!-- Refer for logo name, color etc. https://simpleicons.org/ -->
 <p>
-  <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
-  <img src="https://img.shields.io/badge/Backend-Groovy-informational?style=flat&logo=apachegroovy&color=4298B8" />
-  <img src="https://img.shields.io/badge/Spring-Framework-informational?style=flat&logo=spring&color=6DB33F" />
-  <img src="https://img.shields.io/badge/Spring-Boot-informational?style=flat&logo=springboot&color=6DB33F" />
-  <img src="https://img.shields.io/badge/ORM-Hibernate-informational?style=flat&logo=hibernate&color=59666C" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&color=4169E1" />
+  <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=openjdk&logoColor=white&color=437291" />
+  <img src="https://img.shields.io/badge/Backend-Groovy-informational?style=flat&logo=apachegroovy&logoColor=white&color=4298B8" />
+  <img src="https://img.shields.io/badge/Spring-Framework-informational?style=flat&logo=spring&logoColor=white&color=6DB33F" />
+  <img src="https://img.shields.io/badge/Spring-Boot-informational?style=flat&logo=springboot&logoColor=white&color=6DB33F" />
+  <img src="https://img.shields.io/badge/ORM-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=59666C" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1" />
   <img src="https://img.shields.io/badge/Build-Maven-informational?style=flat&logo=apachemaven&color=C71A36" />
   <img src="https://img.shields.io/badge/Build-Gradle-informational?style=flat&logo=gradle&color=02303A" />
 <br/>
-  <img src="https://img.shields.io/badge/Cloud-Amazon&nbsp;AWS-informational?style=flat&logo=amazonaws&color=232F3E" />
-  <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED" />
-  <img src="https://img.shields.io/badge/Workload-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5" />
-  <img src="https://img.shields.io/badge/CI-Concourse-informational?style=flat&logo=concourse&color=3398DC" />
-  <img src="https://img.shields.io/badge/CI-Jenkins-informational?style=flat&logo=jenkins&color=D24939" />
-  <img src="https://img.shields.io/badge/Monitor-Datadog-informational?style=flat&logo=datadog&color=632CA6" />
+  <img src="https://img.shields.io/badge/Cloud-Amazon&nbsp;AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E" />
+  <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" />
+  <img src="https://img.shields.io/badge/Workload-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5" />
+  <img src="https://img.shields.io/badge/CI-Concourse-informational?style=flat&logo=concourse&logoColor=white&color=3398DC" />
+  <img src="https://img.shields.io/badge/CI-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939" />
+  <img src="https://img.shields.io/badge/Monitor-Datadog-informational?style=flat&logo=datadog&logoColor=white&color=632CA6" />
 </p>
 
 ## Stats
