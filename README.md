@@ -1,10 +1,15 @@
 # Giri Pottepalem 👨‍💻 🎨
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/gpottepalem)](https://github.com/gpottepalem)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpottepalem/)](https://www.linkedin.com/in/gpottepalem/)
-[![X Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=X&logoColor=white&link=https://www.twitter.com/gpottepalem/)](https://www.twitter.com/gpottepalem/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gpottepalem@gmail.com)](mailto:gpottepalem@gmail.com/)
-[![stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-F58025?style=flat&logo=stackoverflow&logoColor=black&link=https://stackoverflow.com/users/5127542/giridhar-pottepalem)](https://stackoverflow.com/users/5127542/giridhar-pottepalem)
+[![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white&link=https://github.com/gpottepalem)](https://github.com/gpottepalem)
+[![Github Pages Badge](https://img.shields.io/badge/-Github&nbsp;Pages-222222?style=flat&logo=Githubpages&logoColor=white&link=https://gpottepalem.github.io/)](https://gpottepalem.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpottepalem/)](https://www.linkedin.com/in/gpottepalem/)
+[![X Badge](https://img.shields.io/badge/-Twitter-black?style=flat&logo=X&logoColor=white&link=https://www.twitter.com/gpottepalem/)](https://www.twitter.com/gpottepalem/)
+[![Blogger Badge](https://img.shields.io/badge/-Tech&nbsp;Blogger-FF5722?style=flat&logo=blogger&logoColor=white&link=https://giri-tech.blogspot.com/)](https://giri-tech.blogspot.com/)
+[![Blogger Badge](https://img.shields.io/badge/-Art&nbsp;Blogger-FF5722?style=flat&logo=blogger&logoColor=white&link=https://soul-on-canvas.blogspot.com/)](https://soul-on-canvas.blogspot.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gpottepalem@gmail.com)](mailto:gpottepalem@gmail.com/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-F58025?style=flat&logo=stackoverflow&logoColor=black&link=https://stackoverflow.com/users/5127542/giridhar-pottepalem)](https://stackoverflow.com/users/5127542/giridhar-pottepalem)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0866FF?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/gpottepalem)](https://facebook.com/gpottepalem)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/gpottepalem)](https://instagram.com/gpottepalem)
 
 <p>
   <img src="http://views.whatilearened.today/views/github/gpottepalem/views.svg" />
