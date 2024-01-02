@@ -1,8 +1,9 @@
 # Giri Pottepalem 👨‍💻 🎨
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gpottepalem)](https://github.com/gpottepalem)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpottepalem/)](https://www.linkedin.com/in/gpottepalem/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpottepalem@gmail.com)](mailto:gpottepalem@gmail.com/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/gpottepalem)](https://github.com/gpottepalem)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpottepalem/)](https://www.linkedin.com/in/gpottepalem/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gpottepalem@gmail.com)](mailto:gpottepalem@gmail.com/)
+[![stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-F58025?style=flat&logo=stackoverflow&logoColor=black&link=https://stackoverflow.com/users/5127542/giridhar-pottepalem)](https://stackoverflow.com/users/5127542/giridhar-pottepalem)
 
 <p>
   <img src="http://views.whatilearened.today/views/github/gpottepalem/views.svg" />
